@@ -288,7 +288,7 @@ class Game {
 var gameSpeed = 1000 / 144;
 var c = document.getElementById("canvas")
 var theGame = new Game(c, gameSpeed);
-theGame.populate("rgb(30, 100, 150)"); // "rgb(200,50,150)"
+theGame.populate("rgb(30, 100, 150)"); // #1e6496
 
 // Event Listeners // 
 
